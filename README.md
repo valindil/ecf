@@ -36,6 +36,21 @@ Supported Content Goals:
     - Tracker Intel (For example, who is in a system, dscan analysis, Intel channel analysis)
     - Wormhole Mapping (VERY VERY BASIC, last thing on my list of priorities but bonus points if we can get to it)
 
+
+Some of the main questions we are trying to answer with this project are:
+
+- Given a specific system, what content is available there? Nearby systems? Both PVP and PVE.
+- Given a specific corp/alliance/toon is it possible to know where they are/what they are doing/how to interact with them? (pew pew).
+- Given a specific content type, what systems have it available?
+- Given a specific ship, what are the best builds to use against it? (Based on known content and ship usage)
+- Given a specific pilot, what ships are they using typically, how are they fit and their stats, etc.. etc... 
+- Given a specific pilot, are they a known cyno alt?
+
+
+> Say you are in a wormhole, and scan out to a Null Sec system. How quickly can you answer the question: "What is available to me here?" How quickly can you get details on who/what/when there and surrounding systems? Do I want to go skyhook or ess raiding? How many NPCS were killed near by? What gates had kills on them? Etc... Etc...
+
+
+
 (Have features or suggestions you'd like to see? Open an issue or contact me on discord: https://discord.gg/qbPCe6keX4)
 
 The system will be a combination of a local client and a web application. The web application is where general content will be stored and viewed. The local client will be used to record new content and send it to the web application. The local client will also provide some overlays and quality of life information. For instance in systems like pathfinder etc it uses the EVE ESI Api to track your location, with a local client we can use chat logs to track your location without polling and without hitting the ESI API or its limitaitons. All opt in features etc, but less auto stuff less easy it is for you. We are also designing a way for you to send data from the EVE Client via Copy/Paste or some other means.
