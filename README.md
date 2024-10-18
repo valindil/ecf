@@ -82,3 +82,4 @@ I will be taking insipiration from the following projects:
 - Integration with: https://eve-kill.com/
 - DSCAN Analysis (How much max DPS is on field? Min DPS? How many reps and average rep amount?)
 - Route Planning - To avoid content `;)`
+- Discord Integration
