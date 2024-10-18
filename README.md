@@ -38,7 +38,9 @@ Supported Content Goals:
 
 (Have features or suggestions you'd like to see? Open an issue or contact me on discord: https://discord.gg/qbPCe6keX4)
 
-The system will be a combination of a local client and a web application. The web application is where general content will be stored and viewed. The local client will be used to record new content and send it to the web application. The local client will also provide some overlays and quality of life information. For instance in systems like pathfinder etc it uses the EVE ESI Api to track your location, with a local client we can use chat logs to track your location without polling and without hitting the ESI API or its limitaitons.
+The system will be a combination of a local client and a web application. The web application is where general content will be stored and viewed. The local client will be used to record new content and send it to the web application. The local client will also provide some overlays and quality of life information. For instance in systems like pathfinder etc it uses the EVE ESI Api to track your location, with a local client we can use chat logs to track your location without polling and without hitting the ESI API or its limitaitons. All opt in features etc, but less auto stuff less easy it is for you. We are also designing a way for you to send data from the EVE Client via Copy/Paste or some other means.
+
+> Note we will not be doing any auto clipboard tracking like EVE's little pirate did. Due to the CLIENT<>SERVER Communication we don't want any potential security exploits via that method. So things will take an extra step or two but it will be worth it. Trust me.
 
 
 # Who am I?
