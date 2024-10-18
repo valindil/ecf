@@ -69,3 +69,16 @@ I will be taking insipiration from the following projects:
 - [ ] Finalize v0.1 Feature List
 - [ ] Figure out more todos.
 
+# Features Requested:
+
+- iHub vulnerability
+- Metanox intel
+- ESS / Skyhook intel (Is this even possible?)
+- Guristas/Angel Cartel intel
+- Local Analyzer
+- Surrounding Systems Intel
+- EVE Scout Info
+- zKillboard Integration
+- Integration with: https://eve-kill.com/
+- DSCAN Analysis (How much max DPS is on field? Min DPS? How many reps and average rep amount?)
+- Route Planning - To avoid content `;)`
